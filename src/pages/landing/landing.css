@@ -1,0 +1,84 @@
+
+
+.landing .name {
+  font-size: 48px;
+  color:var(--text-color);
+}
+
+.landing .description {
+  font-size: 22px;
+  color:var(--hl-color)
+}
+
+.landingImage {
+  right: 0px;
+}
+
+/* .landing .socialIcons {
+  display: none;
+} */
+
+.landing .socialIcons {
+  display: flex;
+  position: absolute;
+  left: 50px;
+  bottom: 20px;
+}
+
+
+
+@media (min-width: 750px) {
+  .landing .name {
+    font-size: 70px;
+  }
+
+  .landing .description {
+    font-size: 32px;
+  }
+
+  .landingImage {
+    bottom: 0;
+    right: 80px;
+  }
+
+  .landing .socialIcons {
+    flex-direction: column;
+  }
+}
+
+.typewriter-container {
+  font-family: sans-serif;
+}
+
+.video-editor {
+  font-family: 'tommy';
+  font-size: 30px;
+}
+
+.designer {
+  font-family: 'Funkytown';
+  font-size: 40px;
+}
+
+.developer {
+  font-family: 'proggy';
+  font-size: 45px;
+}
+
+.video-editor1 {
+  font-family: 'tommy';
+  font-size: 30px;
+}
+
+.designer1 {
+  font-family: 'Funkytown';
+  font-size: 40px;
+}
+
+.developer1 {
+  font-family: 'proggy';
+  font-size: 45px;
+}
+
+
+
