@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hehehehhehehe/static/css/main.feb465b9.css",
+    "main.js": "/hehehehhehehe/static/js/main.4b604dfc.js",
+    "static/media/me.png": "/hehehehhehehe/static/media/me.fbe536c24fe7cd8df88b.png",
+    "static/media/aboutme.png": "/hehehehhehehe/static/media/aboutme.db862488d0b1f4900355.png",
+    "static/media/Navnoor Singh-resume.pdf": "/hehehehhehehe/static/media/Navnoor Singh-resume.9b9204a505bbd14ef4f1.pdf",
+    "static/media/tommy.ttf": "/hehehehhehehe/static/media/tommy.9515591dcf6990e8c950.ttf",
+    "static/media/proggy.ttf": "/hehehehhehehe/static/media/proggy.bf195fef82458c949a69.ttf",
+    "static/media/funkytown.ttf": "/hehehehhehehe/static/media/funkytown.9eff7bf8e987ce72786e.ttf",
+    "index.html": "/hehehehhehehe/index.html",
+    "static/media/logo.svg": "/hehehehhehehe/static/media/logo.07ce0e7b81064b53d351335ab4c0a325.svg",
+    "static/media/close.svg": "/hehehehhehehe/static/media/close.4ca091e4d8c00e16aa90d5a13e67a85f.svg",
+    "static/media/open.svg": "/hehehehhehehe/static/media/open.5aa7238c9bef377e754390f9ce4bcff3.svg",
+    "main.feb465b9.css.map": "/hehehehhehehe/static/css/main.feb465b9.css.map",
+    "main.4b604dfc.js.map": "/hehehehhehehe/static/js/main.4b604dfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb465b9.css",
+    "static/js/main.4b604dfc.js"
+  ]
+}
